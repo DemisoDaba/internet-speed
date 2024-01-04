@@ -8,14 +8,19 @@ This simple command-line application simulates internet speed using the `speedte
 
    ```bash
    git clone https://github.com/DemisoDaba/internet-speed.git
-Navigate to the Project Directory:
+   
+2. **Navigate to the Project Directory:**
+  ```
+    cd your_repository/app
+  ```
 
-cd your_repository/app
 
-Run the Application:
+3. **Run the Application:**
+
+```
 python speedtest_app.py
+```
+4. **Requirements**
 
-Requirements
-
-Python 3.x
-speedtest library (install via pip install speedtest-cli)
+- Python 3.x
+- speedtest library (install via pip install speedtest-cli)
