@@ -11,7 +11,7 @@ This simple command-line application simulates internet speed using the `speedte
    
 2. **Navigate to the Project Directory:**
   ```
-    cd your_repository/app
+    cd app
   ```
 
 
